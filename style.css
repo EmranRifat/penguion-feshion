@@ -1,0 +1,48 @@
+span a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.699);
+    margin-right: 25px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+   
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    background-color: rgba(87, 133, 133, 0.541);
+    padding-top: 15px;
+    border-radius: 10px;
+
+}
+.button1{
+    text-decoration: none;
+    background-image: linear-gradient(#A4BC46,#85A019  );
+    color: white;
+   
+    padding: 10px 50px;
+    border-radius: 10px; 
+}
+.penguin{
+    color: #FABE4C;
+}
+.section-one{
+    display: flex;
+}
+.half{
+    width: 50%;
+    padding: 5%;
+}
+.half img{
+    width: 100%;
+}
+.section-one img{
+    height: 450px;
+    width: 440px;
+}
+/* shopping
+------------------ */
+.shopping img{
+    height: 300px; 
+    
+}
